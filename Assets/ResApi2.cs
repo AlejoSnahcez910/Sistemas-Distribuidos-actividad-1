@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 using TMPro;
-using static UnityEditor.Progress;
+
 
 public class ResApi2 : MonoBehaviour
 {
